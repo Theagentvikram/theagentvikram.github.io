@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Abhinay Cherupally
+Abhinay Cherupally
+Data Scientist
 
 Show Contacts
 
 Email
-richard@example.com
+cherupallya@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 6302323643
 
 Birthday
-June 23, 1982
+February 25, 2003
 
 Location
-Sacramento, California, USA
+Hyderabad, India
 
 # navbar
 
